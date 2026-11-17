@@ -10,9 +10,9 @@ I work at the intersection of **sales, operations and data**: turning pipelines,
 - **Wisdom Tests:** client onboarding and executive meetings across time zones
 
 ### 🛠️ Tools
-**Data:** SQL · Python (pandas) · Excel · Power BI · Tableau · GA4
-**CRM & automation:** Salesforce · HubSpot · Zendesk · n8n · Zapier · Make · Apps Script · Claude
-**Work:** Jira · Confluence · Notion · Asana · SAP
+- **Data:** SQL · Python (pandas) · Excel · Power BI · Tableau · GA4
+- **CRM & automation:** Salesforce · HubSpot · Zendesk · n8n · Zapier · Make · Apps Script · Claude
+- **Work:** Jira · Confluence · Notion · Asana · SAP
 
 ### 📂 Projects
 | Project | What it shows |
